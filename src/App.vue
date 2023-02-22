@@ -24,8 +24,8 @@ export default {
         { testo: "uallallalla🐲🐨(❁´◡`❁)", nome: "Massimo" },
         { testo: "ci devo pensare🐫🍁🍂", nome: "Massimo" },
         { testo: "⚠ non prendete ispirazione da questo sito per progetti futuri ⚠", nome: "Massimo F." },
-        { testo: "⚠ Io preferivo 'ipsirazione' che la correzeio di Massimo F ⚠", nome: "Niki L." },
-        { testo: "Buonanotte al secchio e BHOON"},
+        { testo: "⚠ Io preferivo 'ipsirazione' che la correzione di Massimo F ⚠", nome: "Niki L." },
+        { testo: "Buonanotte al secchio e BHOON" },
         { testo: "⚠ miglior website del pianeta ⚠", nome: "Dennis." },
       ],
       esercizi: [
